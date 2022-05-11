@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mytexttool/static/css/main.113a4631.chunk.css",
+    "main.js": "/mytexttool/static/js/main.248b2261.chunk.js",
+    "main.js.map": "/mytexttool/static/js/main.248b2261.chunk.js.map",
+    "runtime-main.js": "/mytexttool/static/js/runtime-main.e5ab1f10.js",
+    "runtime-main.js.map": "/mytexttool/static/js/runtime-main.e5ab1f10.js.map",
+    "static/js/2.bc114fe5.chunk.js": "/mytexttool/static/js/2.bc114fe5.chunk.js",
+    "static/js/2.bc114fe5.chunk.js.map": "/mytexttool/static/js/2.bc114fe5.chunk.js.map",
+    "static/js/3.3d448c27.chunk.js": "/mytexttool/static/js/3.3d448c27.chunk.js",
+    "static/js/3.3d448c27.chunk.js.map": "/mytexttool/static/js/3.3d448c27.chunk.js.map",
+    "index.html": "/mytexttool/index.html",
+    "static/css/main.113a4631.chunk.css.map": "/mytexttool/static/css/main.113a4631.chunk.css.map",
+    "static/js/2.bc114fe5.chunk.js.LICENSE.txt": "/mytexttool/static/js/2.bc114fe5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5ab1f10.js",
+    "static/js/2.bc114fe5.chunk.js",
+    "static/css/main.113a4631.chunk.css",
+    "static/js/main.248b2261.chunk.js"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "mytexttool",
+  "version": "1.0.0",
+  "description": "dummy react app created for learning purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "omkar0104"
+  },
+  "author": "omkar sonawane",
+  "license": "ISC"
+}
